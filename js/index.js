@@ -32,7 +32,7 @@ class Section extends Page{
         this.oOptions = oOptions;
     }
     render(){
-        $.get(`/pages/${this.oOptions.fname}`, (sMarkdown)=>{
+        $.get(`${this.sBase}/pages/${this.oOptions.fname}`, (sMarkdown)=>{
             $(`#${this.oOptions.title}`).html(
                 marked(sMarkdown)
             )
