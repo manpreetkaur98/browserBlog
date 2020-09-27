@@ -60,12 +60,7 @@ class Article extends Page{
                 </div>
               </section>
               <div class="small-intro">
-  <p id="small-intro"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lobortis, eros non pulvinar pellentesque, turpis nulla consequat elit,
-     id auctor nulla metus eu ex. Phasellus imperdiet ornare tristique. Ut ut lacus gravida, feugiat mi a,tincidunt ipsum. Nam sit amet odio consequat, 
-     finibus ligula vitae, mattis sem. Suspendisse vitae turpis sit amet lorem rutrum malesuada fringilla at magna. 
-     Nam tempor magna facilisis turpis vulputate venenatis. Donec euismod lectus justo, eget ornare lacus malesuada nec.
-      Sed sed orci ut arcu semper porttitor sed eu nunc. Integer sodales et felis id luctus. Nulla quis fermentum leo. Vestibulum vulputate libero ac lacinia dictum. Nullam tincidunt imperdiet nisi, 
-      ut condimentum ipsum fermentum sed. Pellentesque congue felis nec aliquet sagittis. Etiam eget porta ipsum. Proin non pretium ipsum, vel tristique justo.</p>
+  <p id="small-intro"> I make current responsive plan for Mobile and Web Applications. My energy to change customer's visionary items to an astounding reality has helped me convey top notch items. My essential spotlight is on ideal help, versatility, execution, plan, and extraordinary client experience.</p>
 </div>
  
 <!-- Skilss --> 

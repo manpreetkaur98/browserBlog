@@ -39,7 +39,7 @@ h1 {
   .banner {
     background:url("https://webdevtrick.com/wp-content/uploads/1st.jpg");
     background-size: cover;
-    height: 1000px;
+    height: 800px;
   }
   #overlay {
     background: rgba(0, 0, 0, 0.76);
