@@ -105,9 +105,9 @@ class Article extends Page{
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
             <p class="timeline-thumbnail"> February 2010 - June 2012 </p>
-            <h5 id="workplace"><a href="#" target="_blank">Google</a></h5>
-            <h5 id="jobPos"><strong> Lorem ipsum </strong></h5>
-            <p id="jobDesc"> • Quisque dictum placerat urna eget mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut cursus tincidunt tristique.</p>
+            
+            <h5 id="jobPos"><strong> ASP.NET Project </strong></h5>
+            <p id="jobDesc"> This project is created in visual studio with the Language ASP.NET.</p>
           </div>
         </li>
       </ul>
@@ -116,8 +116,8 @@ class Article extends Page{
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
             <p class="timeline-thumbnail"> July 2012 - August 2015</p>
-            <h5 id="workplace"><a href="#" target="_blank">Facebook</a></h5>
-            <h5 id="jobPos"><strong> Java Project</strong></h5>
+            
+            <h5 id="jobPos"><strong> JavaScript Project</strong></h5>
             <p id="jobDesc">A project is created by using basic skills of java. This project is about the restraurant advertisement.</p>
           </div>
         </li>
@@ -127,7 +127,7 @@ class Article extends Page{
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
             <p class="timeline-thumbnail"> August 2015 - January 2016</p>
-            <h5 id="workplace"><a href="#" target="_blank">Microsoft</a></h5>
+            
             <h5 id="jobPos"><strong> HTML & CSS Project </strong></h5>
             <p id="jobDesc">A project is created using basic HTML and CSS. It uses various and latest techniques of css that are used in the project./p>
           </div>
@@ -138,7 +138,7 @@ class Article extends Page{
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
             <p class="timeline-thumbnail"> February 2018 - June 2018</p>
-            <h5 id="workplace"><a href="#" target="_blank">Amazon</a></h5>
+            
             <h5 id="jobPos"><strong>Java Project</strong></h5>
             <p id="jobDesc">A game is created with java coding. It is an interesing game with the adventues in it. This project is creadind in Netbeans . </p>    
           </div>
