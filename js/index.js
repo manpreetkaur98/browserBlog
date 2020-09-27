@@ -1,6 +1,7 @@
 import "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js";
 import "https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.js";
 import "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js";
+import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 import aPages from "../pages/index.js";
 
 class Page {
@@ -240,13 +241,22 @@ class Article extends Page{
  
 <!-- contact -->  
   <section class="contact-section" id="contact">
-    <h1 class="text-center">Conect With Me!</h1>
+    <h1 class="text-center">Connect With Me!</h1>
     <div class="contact-buttons">
       <a class="btn btn-linkedin btn-lg" href="#" target="_blank" ><i class="fa fa-2x fa-linkedin"></i></a>
       <a class="btn btn-github btn-lg" href="#" target="_blank"><i class="fa fa-2x fa-github"></i></a>
       <a class="btn btn-drible btn-lg" href="#" target="_blank" ><i class="fa fa-2x fa-dribbble"></i></a>
       <a class="btn btn-facebook btn-lg" href="#" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>
     </div> 
+
+    <ul>
+	  <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+	  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+	  <li><a href="#"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+	  <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	  <li><a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+	</ul>
+
   </section> `
             );
         }
