@@ -241,16 +241,8 @@ class Article extends Page{
 <!-- contact -->  
   <section class="contact-section" id="contact">
     <h1 class="text-center">Connect With Me!</h1>
-    <div class="contact-buttons">
-      <a class="btn btn-linkedin btn-lg" href="#" target="_blank" ><i class="fa fa-2x fa-linkedin"></i></a>
-      <a class="btn btn-github btn-lg" href="#" target="_blank"><i class="fa fa-2x fa-github"></i></a>
-      <a class="btn btn-drible btn-lg" href="#" target="_blank" ><i class="fa fa-2x fa-dribbble"></i></a>
-      <a class="btn btn-facebook btn-lg" href="#" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>
-    </div> 
-
-   
-
-  </section> `
+    <label style= "margin-left: 500px";>Email <input type="email" name="email_address"></label>
+    </section> `
             );
         }
       
