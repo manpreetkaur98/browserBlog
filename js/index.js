@@ -169,9 +169,7 @@ class Article extends Page{
             <a class="thumbnail">
                <img src="https://webdevtrick.com/wp-content/uploads/javascript-loop-slideshow-980x515.jpg" class="project-img">
             </a>
-            <h2 id="projectTitle"><strong>Loop Slideshow</strong></h2>
-            <a href="https://webdevtrick.com/demos/javascript-image-slideshow/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-            <a href="https://webdevtrick.com/javascript-loop-slideshow/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+           
           </div>
         </div>
  
@@ -180,9 +178,7 @@ class Article extends Page{
                 <a class="thumbnail">
                    <img src="https://webdevtrick.com/wp-content/uploads/before-and-after-image-slider-980x515.jpg" class="project-img">
                 </a>
-                <h2 id="projectTitle"><strong>Before & After Slider</strong></h2>
-                <a href="https://webdevtrick.com/demos/after-before-slider/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-                <a href="https://webdevtrick.com/before-and-after-image-slider/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+                
               </div>
               </div>
       </div>
@@ -193,9 +189,7 @@ class Article extends Page{
               <a class="thumbnail">
                  <img src="https://webdevtrick.com/wp-content/uploads/css-background-gradient-animation-980x515.jpg" class="project-img">
               </a>
-              <h2 id="projectTitle"><strong>Loop Slideshow</strong></h2>
-              <a href="https://webdevtrick.com/demos/css-gradient-background/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-              <a href="https://webdevtrick.com/css-gradient-background/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+              
             </div>
           </div>
   
@@ -204,9 +198,7 @@ class Article extends Page{
                   <a class="thumbnail">
                      <img src="https://webdevtrick.com/wp-content/uploads/css-filter-image-editor.jpg" class="project-img">
                   </a>
-                  <h2 id="projectTitle"><strong>Loop Slideshow</strong></h2>
-                  <a href="https://webdevtrick.com/demos/css-filter-editor/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-                  <a href="https://webdevtrick.com/css-filter-image-editor/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+                  
                 </div>
                 </div>
         </div>
@@ -217,9 +209,7 @@ class Article extends Page{
                 <a class="thumbnail">
                    <img src="https://webdevtrick.com/wp-content/uploads/css-ghost-buttons.jpg" class="project-img">
                 </a>
-                <h2 id="projectTitle"><strong>Loop Slideshow</strong></h2>
-                <a href="https://webdevtrick.com/demos/css-ghost-buttons/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-                <a href="https://webdevtrick.com/css-ghost-buttons/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+                
               </div>
             </div>
     
@@ -228,9 +218,7 @@ class Article extends Page{
                     <a class="thumbnail">
                        <img src="https://webdevtrick.com/wp-content/uploads/html-video-player-js-css.jpg" class="project-img">
                     </a>
-                    <h2 id="projectTitle"><strong>Loop Slideshow</strong></h2>
-                    <a href="https://webdevtrick.com/demos/html-video-player/" target="_blank" alt="Live Demo"><h2 id="liveDemo"><strong>Live Demo</strong></h2></a>
-                    <a href="https://webdevtrick.com/html-video-player-javascript-css/" target="_blank" alt="Source Code"><h2 id="sourceCode"><strong>Source Code</strong></h2></a>
+
                   </div>
                   </div>
           </div>
