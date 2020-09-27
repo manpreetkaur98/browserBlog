@@ -249,13 +249,7 @@ class Article extends Page{
       <a class="btn btn-facebook btn-lg" href="#" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>
     </div> 
 
-    <ul>
-	  <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-	  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-	  <li><a href="#"><i class="fa fa-google" aria-hidden="true"></i></a></li>
-	  <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-	  <li><a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-	</ul>
+   
 
   </section> `
             );
