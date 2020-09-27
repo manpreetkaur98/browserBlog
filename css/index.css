@@ -16,7 +16,7 @@
 }
 .text-center {
     text-align: center;
-    color:white;
+    color:Black;
 }
 h1 {
     padding-top: 10px;
@@ -53,7 +53,7 @@ h1 {
     padding-top:40px;
   }
   .ex-timeline {
-    background:url("https://webdevtrick.com/wp-content/uploads/black-background.jpg");
+    background:url("");
     background-size: cover;
     min-height: 100%;
     padding-top: 20px;
