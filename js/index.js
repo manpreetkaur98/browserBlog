@@ -98,16 +98,16 @@ class Article extends Page{
  
 <!-- Experience --> 
   <section class="ex-timeline" id="experience"> 
-    <h1 class="text-center border titles" id="title"><strong> EXPERIENCE</strong> </h1> 
+    <h1 class="text-center border titles" id="title"><strong> SKILLS</strong> </h1> 
     <div class="job-timeline">
       <ul class="timeline">
         <li class="timeline-event">
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
-            <p class="timeline-thumbnail"> February 2010 - June 2012 </p>
+            <p class="timeline-thumbnail"> ASP.NET </p>
             
-            <h5 id="jobPos"><strong> ASP.NET Project </strong></h5>
-            <p id="jobDesc"> This project is created in visual studio with the Language ASP.NET.</p>
+            <h5 id="jobPos"><strong> ASP.NET </strong></h5>
+            <p id="jobDesc"> A project is created in visual studio with the Language ASP.NET.</p>
           </div>
         </li>
       </ul>
@@ -115,9 +115,9 @@ class Article extends Page{
         <li class="timeline-event">
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
-            <p class="timeline-thumbnail"> July 2012 - August 2015</p>
+            <p class="timeline-thumbnail"> JavaScript</p>
             
-            <h5 id="jobPos"><strong> JavaScript Project</strong></h5>
+            <h5 id="jobPos"><strong> JavaScript</strong></h5>
             <p id="jobDesc">A project is created by using basic skills of java. This project is about the restraurant advertisement.</p>
           </div>
         </li>
@@ -126,9 +126,9 @@ class Article extends Page{
         <li class="timeline-event">
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
-            <p class="timeline-thumbnail"> August 2015 - January 2016</p>
+            <p class="timeline-thumbnail">  HTML & CSS </p>
             
-            <h5 id="jobPos"><strong> HTML & CSS Project </strong></h5>
+            <h5 id="jobPos"><strong> HTML & CSS  </strong></h5>
             <p id="jobDesc">A project is created using basic HTML and CSS. It uses various and latest techniques of css that are used in the project./p>
           </div>
         </li>
@@ -137,9 +137,9 @@ class Article extends Page{
         <li class="timeline-event">
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
-            <p class="timeline-thumbnail"> February 2018 - June 2018</p>
+            <p class="timeline-thumbnail"> JAVA</p>
             
-            <h5 id="jobPos"><strong>Java Project</strong></h5>
+            <h5 id="jobPos"><strong>Java </strong></h5>
             <p id="jobDesc">A game is created with java coding. It is an interesing game with the adventues in it. This project is creadind in Netbeans . </p>    
           </div>
         </li>
@@ -148,8 +148,8 @@ class Article extends Page{
         <li class="timeline-event">
           <label class="timeline-icon"></label>
           <div class="timeline-event-copy">
-            <p class="timeline-thumbnail"> December 2018 - Present </p>
-            <h5 id="workplace"><a href="#" target="_blank">Coke Cola</a></h5>
+            <p class="timeline-thumbnail">  Mobile Application </p>
+            
             <h5 id="jobPos"><strong> Mobile Application </strong></h5>
             <p id="jobDesc">This Project is build in Android Studio with basic coding of android. This app is about the safety of womens </p>
             </div>
