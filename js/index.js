@@ -242,6 +242,7 @@ class Article extends Page{
   <section class="contact-section" id="contact">
     <h1 class="text-center">Connect With Me!</h1>
     <label style= "margin-left: 500px";>Email <input type="email" name="email_address"></label>
+    <button >Send</button>
     </section> `
             );
         }
